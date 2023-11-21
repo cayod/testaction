@@ -6,3 +6,4 @@ adici
 major
 major
 minor
+minor
