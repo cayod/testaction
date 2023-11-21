@@ -2,3 +2,4 @@
 
 
 adicionando major
+adicionanado minor
