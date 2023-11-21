@@ -3,6 +3,3 @@
 
 adicionando major
 adici
-major
-major
-minor
