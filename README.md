@@ -1,4 +1,4 @@
 # testaction
 
 
-adicionando minor
+adicionando major
