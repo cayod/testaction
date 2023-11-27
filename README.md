@@ -1,10 +1,4 @@
 # testaction
 
-
-adicionando major
-adici
-
-major
-major
-minor
-minor
+ala uma
+tem mais uma
