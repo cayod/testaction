@@ -38,4 +38,4 @@ jobs:
 
         # List files in the repository
         ls -al
-        echo "testciagorataaqui" >> README.md
+        cat README.md
