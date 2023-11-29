@@ -28,8 +28,14 @@ jobs:
   show:
     runs-on: ubuntu-latest
     steps:
-      - name: Run code
-        shell: bash
-        run: |
-            echo $pwd
-            ls
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: List Files
+      run: |
+        # Navigate to the repository directory
+        cd $GITHUB_WORKSPACE
+
+        # List files in the repository
+        ls -al
+        echo "testciagorataaqui" >> README.md
