@@ -28,7 +28,8 @@ jobs:
   show:
     runs-on: ubuntu-latest
     steps:
-      - name: Group of log lines
+      - name: Run code
+        shell: bash
         run: |
             echo $pwd
             ls
